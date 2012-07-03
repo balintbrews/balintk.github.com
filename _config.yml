@@ -12,6 +12,7 @@ pygments: true
 title : Bálint Kléri
 author :
   name : Bálint Kléri
+  email : balint@kleri.hu
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
