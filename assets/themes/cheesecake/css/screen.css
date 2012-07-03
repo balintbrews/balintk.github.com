@@ -171,3 +171,8 @@ a:hover, a:active, a:focus {
   #related h2 {
     margin-bottom: 1em;
   }
+
+#disqus_thread {
+  margin-top: 64px;
+}
+
