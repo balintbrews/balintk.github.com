@@ -83,6 +83,54 @@ a:hover, a:active, a:focus {
     color: #5C5C5C;
   }
 
+  .site .social-icons {
+    display: inline;
+    list-style: none;
+  }
+
+  .site .social-icons li {
+    display: inline;
+  }
+
+  .site .social-icons li a {
+    display: block;
+    width: 24px;
+    height: 24px;
+    background-image: url('../img/social-icons.png');
+  }
+
+  .site .social-icons li a.rss {
+    background-position: 0px 0px;
+  }
+
+  .site .social-icons li a.rss:hover {
+    background-position: 0px 24px;
+  }
+
+  .site .social-icons li a.twitter {
+    background-position: -24px 0px;
+  }
+
+  .site .social-icons li a.twitter:hover {
+    background-position: -24px 24px;
+  }
+
+  .site .social-icons li a.drupal {
+    background-position: -48px 0px;
+  }
+
+  .site .social-icons li a.drupal:hover {
+    background-position: -48px 24px;
+  }
+
+  .site .social-icons li a.github {
+    background-position: -72px 0px;
+  }
+
+  .site .social-icons li a.github:hover {
+    background-position: -72px 24px;
+  }
+
   .site .meta {
     color: #aaa;
     font-size: 12px;
