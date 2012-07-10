@@ -87,6 +87,7 @@ header #site-title:hover { color: #899D00 }
 header #navigation { margin-left: 16px; font-weight: bold; display: inline-block; margin: 0; }
 header #navigation a { color: #858585; text-decoration: none; }
 header #navigation a:hover { color: #5C5C5C; }
+header a:hover, header a:focus, header a:active { outline: 0; }
 header ul { list-style: none; }
 
 #navigation li, #social-icons li { float: left; display: inline; }
