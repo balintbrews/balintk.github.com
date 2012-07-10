@@ -7,7 +7,9 @@ group: navigation
 
 # About me
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+My name is Bálint Kléri. I am a web developer from Hungary, I have been working with Drupal since 2007. Even though I love my country, I took the challenge and relocated to Sweden in 2011 when NodeOne, the biggest Scandinavian Drupal shop hired me after I participated in Google Summer of Code. I came to Gothenburg, and started as a happy member of a development team called Glenn.
 
-Nulla vitae elit libero, a pharetra augue. Aenean lacinia bibendum nulla sed consectetur. Cras mattis consectetur purus sit amet fermentum. Donec sed odio dui. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+I focus on architecture and backend coding, but I also enjoy diving into the browser's script debugger. Being involved in usability questions also makes me happy, and I like to talk to clients to become more engaged with their needs.
+
+Minimalism amazes me, and I am constantly trying to achieve a minimalist lifestyle and mindset. I play squash at amateur level, and started running lately. Trance is my choice of music.
 
