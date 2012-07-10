@@ -82,8 +82,7 @@ td { vertical-align: top; }
    ========================================================================== */
 
 header { line-height: normal; }
-header > * { vertical-align: middle; }
-header #site-title { font-size: 18px; font-weight: bold; color: #93A605; text-decoration: none; }
+header #site-title { font-size: 20px; font-weight: bold; color: #93A605; text-decoration: none; vertical-align: top; }
 header #site-title:hover { color: #899D00 }
 header #navigation { margin-left: 16px; font-weight: bold; display: inline-block; margin: 0; }
 header #navigation a { color: #858585; text-decoration: none; }
@@ -91,7 +90,7 @@ header #navigation a:hover { color: #5C5C5C; }
 header ul { list-style: none; }
 
 #navigation li, #social-icons li { float: left; display: inline; }
-#social-icons { display: inline-block; margin: 0; }
+#social-icons { display: inline-block; margin: 0 0 0 -30px; }
 #social-icons li a { display: block; width: 24px; height: 24px; background-image: url('../img/social-icons.png'); }
 #social-icons li a.rss { background-position: 0px 0px; }
 #social-icons li a.rss:hover { background-position: 0px 24px; }
