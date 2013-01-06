@@ -81,27 +81,17 @@ td { vertical-align: top; }
 /* ==|== primary styles =====================================================
    ========================================================================== */
 
-header { line-height: normal; }
-header #site-title { font-size: 22px; color: #93A605; text-decoration: none; vertical-align: top; }
-header #site-title:hover { color: #899D00 }
-header #navigation { margin-left: 16px; font-weight: bold; display: inline-block; margin: 0; }
-header #navigation a { color: #858585; text-decoration: none; }
-header #navigation a:hover { color: #5C5C5C; }
-header a:hover, header a:focus, header a:active { outline: 0; }
-header ul { list-style: none; }
+header { border-bottom: 2px solid #EFEFEF; padding-bottom: 0.5em; }
 
-#navigation li, #social-icons li { float: left; display: inline; }
-#social-icons { display: inline-block; margin: 0 0 0 -30px; }
-#social-icons li a { display: block; width: 24px; height: 24px; background-image: url('../img/social-icons.png'); }
-#social-icons li a.rss { background-position: 0px 0px; }
-#social-icons li a.rss:hover { background-position: 0px 24px; }
-#social-icons li a.twitter { background-position: -24px 0px; }
-#social-icons li a.twitter:hover { background-position: -24px 24px; }
-#social-icons li a.drupal { background-position: -48px 0px; }
-#social-icons li a.drupal:hover { background-position: -48px 24px; }
-#social-icons li a.github { background-position: -72px 0px; }
-#social-icons li a.github:hover { background-position: -72px 24px; }
+header a { color: #858585; text-decoration: none; display: inline; }
+header a:hover { color: #5C5C5C; text-decoration: none; }
+header .site-title a { font-size: 22px; color: #93A605; text-decoration: none; }
+header .site-title a:hover { color: #899D00; }
+header .icon-large:before { vertical-align: 0; }
 
+header ul { list-style: none; margin: 0; padding: 0; }
+header ul li { display: inline; margin-right: 5px; }
+header ul li.site-title { margin-right: 25px; }
 
 .meta { color: #aaa; font-size: 12px; margin-top: -16px; }
 
