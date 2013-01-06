@@ -4,7 +4,7 @@ title: Bálint Kléri | balintk
 ---
 {% include JB/setup %}
 
-## Posts
+## Blog
 
 <ul class="posts">
   {% for post in site.posts %}
