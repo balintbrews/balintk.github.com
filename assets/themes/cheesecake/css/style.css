@@ -85,6 +85,7 @@ header { border-bottom: 2px solid #EFEFEF; padding-bottom: 0.5em; }
 
 header a { color: #858585; text-decoration: none; display: inline; }
 header a:hover { color: #5C5C5C; text-decoration: none; }
+header a:hover, header a:focus, header a:active { outline: 0; }
 header .site-title a { font-size: 22px; color: #93A605; text-decoration: none; }
 header .site-title a:hover { color: #899D00; }
 header .icon-large:before { vertical-align: 0; }
