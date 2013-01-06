@@ -82,7 +82,7 @@ td { vertical-align: top; }
    ========================================================================== */
 
 header { line-height: normal; }
-header #site-title { font-size: 20px; font-weight: bold; color: #93A605; text-decoration: none; vertical-align: top; }
+header #site-title { font-size: 22px; color: #93A605; text-decoration: none; vertical-align: top; }
 header #site-title:hover { color: #899D00 }
 header #navigation { margin-left: 16px; font-weight: bold; display: inline-block; margin: 0; }
 header #navigation a { color: #858585; text-decoration: none; }
