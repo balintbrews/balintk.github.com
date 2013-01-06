@@ -105,7 +105,7 @@ header ul { list-style: none; }
 
 .meta { color: #aaa; font-size: 12px; margin-top: -16px; }
 
-footer { font-size: 80%; color: #666; border-top: 3px solid #EEEEEE; margin-top: 2em; 
+footer { font-size: 80%; color: #666; border-top: 2px solid #EEEEEE; margin-top: 2em; 
   padding: 1em 0.5em 0 0.5em; overflow: hidden; }
 
 #disqus_thread { margin-top: 64px; }
